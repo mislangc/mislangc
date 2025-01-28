@@ -4,6 +4,7 @@
 **mislangc/mislangc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my second certificate in Software Development. Yes, I'm unemployed.
 - 🌱 I’m currently learning in Brigham Young University - Idaho.
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email: carlbpmislang@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
