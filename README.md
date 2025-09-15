@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/carlbpmislang1419">
+  <a href="https://linkedin.com/in/carlbpmislang1419" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://skillicons.dev">
