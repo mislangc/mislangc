@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🕵️‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on my second certificate in Software Development.
+- 🔭 I’m currently working on my third certificate in Software Development.
 - 🌱 I’m currently learning in Brigham Young University - Idaho.
 - 👯 I’m looking to collaborate on any project as long as it is within my level.
 - 🤔 I’m looking for help with finding intern, entry or junior level web development occupations.
