@@ -67,9 +67,6 @@ Here are some ideas to get you started:
 <h2 align="center">🎧 Other Favorites</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </p>
