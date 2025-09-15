@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning in Brigham Young University - Idaho.
 - 👯 I’m looking to collaborate on any project as long as it is within my level.
 - 🤔 I’m looking for help with finding intern, entry or junior level web development occupations.
-- 💬 Ask me about anything and I will answer with anything. Next question.
+- 💬 Ask me about anything and I will answer with anything. 
 - 😄 Pronouns: He/Him
-- 👉 How to reach me: Email: carlbpmislang@gmail.com
-- ⚡ How I keep moving forward: If it is difficult it means there still room to improve on.
-- 😎 Fun Fact: I have 3 Half Labrador dogs
+- 👉 How to reach me: Email: carlbpmislang@gmail.com Mobile: +63 915 448 3329
+- ⚡ How I keep moving forward: If it is difficult it means an opportunity to improve.
+- 😎 Fun Fact: I have 3 Half Labrador dogs. Update: Feb 19, one passed away.
 
 <h2 align="center">📞 Contacts</h2>
 
