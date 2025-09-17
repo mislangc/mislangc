@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ How I keep moving forward: If it is difficult it means an opportunity to improve.
 - 😎 Fun Fact: I have 3 Half Labrador dogs. Update: Feb 19, one passed away.
 
-[![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mislangc)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="center">📞 Contacts</h2>
 
 <p align="center"> 
