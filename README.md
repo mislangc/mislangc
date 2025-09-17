@@ -67,5 +67,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mislangc=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
