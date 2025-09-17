@@ -5,6 +5,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Welcome! I'm Carl!</h1>
 
+[![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mislangc)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 align="center">🕵️‍♂️ About Me</h2>
 
 - 🔭 I’m currently working on my third certificate in Software Development.
@@ -70,4 +72,4 @@ Here are some ideas to get you started:
 
 <h2 align="center">💻 GitHub  Statistics</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mislangc)](https://github.com/anuraghazra/github-readme-stats)
+[![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mislangc)](https://github.com/anuraghazra/github-readme-stats)
