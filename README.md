@@ -72,6 +72,4 @@ Here are some ideas to get you started:
 
 [![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mislangc)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff">
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
