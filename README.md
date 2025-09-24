@@ -71,5 +71,5 @@ Here are some ideas to get you started:
 <h2 align="center">💻 GitHub  Statistics</h2>
 
 <p align="center">
-  [![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mislangc)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=mislangc)](https://github.com/anuraghazra/github-readme-stats">
 </p>
